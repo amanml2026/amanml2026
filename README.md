@@ -22,7 +22,7 @@ Passionate about **AI, Machine Learning**, and building **real-world projects**.
 ### **Sales Data Analysis**
 - **Tools:** Python, Pandas, Matplotlib  
 - **Description:** Analyzed sales data, visualized trends, top-performing countries, categories, and sales distributions.  
-- **Repository:** [Sales Data Analysis](https://github.com/amanml2026/sales-data-analysis)  
+- **Repository:** [Sales Data Analysis](https://github.com/amanml2026/sales-analysis-dashboard)  
 - **Dashboard:** Includes **subplot dashboard** with multiple insights.
 
 ---
