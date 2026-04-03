@@ -52,9 +52,7 @@ Passionate about **AI, Machine Learning**, and building **real-world projects**.
 
 ---
 
-## 📈 GitHub Stats
 
-![Aman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=amanml2026&show_icons=true&theme=radical)
 <!--
 **amanml2026/amanml2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
