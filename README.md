@@ -1,69 +1,91 @@
 # 👋 Hi, I'm Aman Khanal
 
-## 🚀 Aspiring AI / ML Engineer | Builder in Progress
-
-I started my journey in **Data Science in March 2026**, and since then I’ve been focused on building a strong foundation in  
-**Machine Learning, Data Science, and AI Systems Thinking** through hands-on projects.
-
-I believe in:
-> “Learning by building real systems, not just studying theory.”
+<p align="center">
+  <b>🚀 Aspiring AI Systems Engineer | Machine Learning Builder | Problem Solver</b>
+</p>
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 About Me
 
-### Programming & Core Stack
+I started my journey in **Data Science & AI in March 2026**, and since then I’ve been focused on one goal:
+
+> **Building real-world AI systems, not just learning theory.**
+
+I enjoy understanding how models work under the hood and turning raw data into meaningful intelligence.
+
+---
+
+## 🧭 What I'm Focused On
+
+- 🔍 Machine Learning fundamentals (from scratch understanding)
+- 🏗️ End-to-end ML system building
+- 📊 Feature engineering & data intuition
+- 🤖 Model evaluation & real-world thinking
+- 🚀 Moving towards AI Systems / MLOps
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Core Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Data Science & ML
+### Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-F5792A?style=for-the-badge)
 
 ---
 
-## 📊 Featured Projects
+## 🚀 Featured Projects
 
-### 🚢 Titanic Survival Prediction (ML Pipeline Project)
-- Built an end-to-end machine learning pipeline using Scikit-learn
-- Performed feature engineering (Family Size, Title extraction, Family Type)
-- Compared multiple models: Logistic Regression, Decision Tree, Random Forest
-- Applied cross-validation and evaluation metrics for model selection
-- Identified key survival factors like gender, class, and social status
+### 🚢 Titanic Survival Prediction (End-to-End ML Pipeline)
+> A complete machine learning workflow from data cleaning to model evaluation.
 
-👉 Repository: https://github.com/amanml2026/titanic-survival-ml
+**Highlights:**
+- Built full ML pipeline using Scikit-learn
+- Feature engineering: Family size, Title extraction, Family type
+- Compared Logistic Regression, Decision Tree, Random Forest
+- Used cross-validation for reliable evaluation
+- Identified key survival drivers: gender, class, and social status
 
----
-
-### 📈 Sales Data Analysis Dashboard
-- Analyzed global sales dataset using Pandas & Matplotlib
-- Built visual dashboards for revenue, category performance, and country-wise insights
-- Extracted business insights from raw data using EDA techniques
-
-👉 Repository: https://github.com/amanml2026/sales-analysis-dashboard
+📌 Repo: https://github.com/amanml2026/titanic-survival-ml
 
 ---
 
-## 🧠 What I'm Currently Focused On
+### 📊 Sales Data Analysis Dashboard
+> Data analysis project focused on extracting business insights.
 
-- Strengthening Machine Learning fundamentals
-- Building end-to-end ML projects (not just notebooks)
-- Learning feature engineering deeply
-- Improving model evaluation & interpretation skills
-- Preparing for AI Systems Engineering path
+**Highlights:**
+- Cleaned and analyzed raw sales dataset
+- Built visual insights using Matplotlib
+- Identified top-performing regions and categories
+- Created structured EDA dashboard-style analysis
+
+📌 Repo: https://github.com/amanml2026/sales-analysis-dashboard
 
 ---
 
-## 🎯 Goals (Next 6–12 Months)
+## 📈 What Makes My Work Different
 
-- Build 5–10 strong ML projects (portfolio level)
-- Learn Deep Learning (Neural Networks, CNNs, NLP basics)
-- Learn MLOps (deployment, APIs, Streamlit)
-- Start contributing to open-source projects
-- Secure internship in AI / Data Science
+- I focus on **understanding why models work**, not just training them
+- I build **structured ML pipelines**, not random notebooks
+- I prioritize **feature engineering and data intuition**
+- I document projects like **real-world case studies**
+
+---
+
+## 🎯 Current Goals
+
+- Build 5–10 strong ML portfolio projects
+- Master feature engineering and model evaluation
+- Learn Deep Learning fundamentals
+- Explore MLOps and deployment (Streamlit / APIs)
+- Transition into AI Systems Engineering path
 
 ---
 
@@ -76,15 +98,27 @@ I believe in:
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanml2026&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanml2026&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
 
 - GitHub: https://github.com/amanml2026
 
 ---
 
-💡 *“Consistency builds skill. Skill builds opportunity.”* 
-
----
+<p align="center">
+💡 <i>"Consistency builds skill. Skill builds opportunity."</i>
+</p>
 
 
 <!--
