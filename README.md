@@ -15,8 +15,8 @@ I started my journey in **Data Science & AI in March 2026**, and since then I’
 I enjoy understanding how models work under the hood and turning raw data into meaningful intelligence.
 
 ---
-## My website :
-<a href = "https://amanml2026.github.io/Portfolio-website/"> Own Website </a>
+## Personal website :
+<a href = "https://amanml2026.github.io/Portfolio-website/"> Portfolio </a>
 
 ## 🧭 What I'm Focused On
 
