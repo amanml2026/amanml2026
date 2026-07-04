@@ -16,7 +16,7 @@ I enjoy understanding how models work under the hood and turning raw data into m
 
 ---
 ## Personal website :
-<a href = "https://amanml2026.github.io/Portfolio-website/"> Portfolio </a>
+<a href = "https://amanml2026.github.io/Portfolio-website/"> Portfolio ^_^ </a>
 
 ## 🧭 What I'm Focused On
 
