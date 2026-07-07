@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-khanal-4bb287227/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AmanKhanal_AI)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meena6aman@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA3F2?style=for-the-badge&logo=vercel&logoColor=white)](https://amanml2026.github.io/Portfolio-website/)
 
 </div>
 
