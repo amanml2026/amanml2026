@@ -1,139 +1,150 @@
-# 👋 Hi, I'm Aman Khanal
+<div align="center">
 
-<p align="center">
-  <b>🚀 Aspiring AI Systems Engineer | Machine Learning Builder | Problem Solver</b>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Aman+%F0%9F%91%8B;Building+Machine+Learning+from+First+Principles;Aspiring+AI+Systems+Engineer" alt="Typing SVG" />
 
----
+<br/>
 
-## 🧠 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-I started my journey in **Data Science & AI in March 2026**, and since then I’ve been focused on one goal:
+</div>
 
-> **Building real-world AI systems, not just learning theory.**
+<br/>
 
-I enjoy understanding how models work under the hood and turning raw data into meaningful intelligence.
+## About Me
 
----
-## Personal website :
-<a href = "https://amanml2026.github.io/Portfolio-website/"> Portfolio ^_^ </a>
+I'm a Data Science & AI practitioner who started from the math up — implementing algorithms from scratch before reaching for the library that does it in one line. My goal is **AI Systems Engineering**: not just training models, but understanding, deploying, and governing them in production.
 
-## 🧭 What I'm Focused On
+```python
+class Aman:
+    def __init__(self):
+        self.focus       = ["Machine Learning", "Deep Learning", "MLOps"]
+        self.philosophy   = "Understand it from scratch, then scale it with tools"
+        self.currently    = "Building deployable ML systems, not just notebooks"
+        self.open_to      = ["collaboration", "internships", "research discussions"]
 
-- 🔍 Machine Learning fundamentals (from scratch understanding)
-- 🏗️ End-to-end ML system building
-- 📊 Feature engineering & data intuition
-- 🤖 Model evaluation & real-world thinking
-- 🚀 Moving towards AI Systems / MLOps
+    def say_hi(self):
+        return "Let's build something that ships."
+```
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## 🧭 What I'm Building Toward
 
-### Languages & Core Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+| Stage | Focus |
+|---|---|
+| ✅ Foundations | ML algorithms & optimization from scratch (no shortcuts) |
+| ✅ Applied ML | End-to-end pipelines on real-world data |
+| ✅ Interactive Tooling | Visual, explorable ML tools |
+| 🔄 In Progress | Deep learning, deployment, AI governance/monitoring |
+| 🔜 Next | 5–10 polished portfolio projects → AI Systems Engineering roles |
 
-### Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-F5792A?style=for-the-badge)
-
----
+<br/>
 
 ## 🚀 Featured Projects
 
-### 🚢 Titanic Survival Prediction (End-to-End ML Pipeline)
-> A complete machine learning workflow from data cleaning to model evaluation.
+<details open>
+<summary><b>🔬 ML-Algorithms-From-Scratch</b> — the foundation of everything else here</summary>
+<br/>
 
-**Highlights:**
-- Built full ML pipeline using Scikit-learn
-- Feature engineering: Family size, Title extraction, Family type
-- Compared Logistic Regression, Decision Tree, Random Forest
-- Used cross-validation for reliable evaluation
-- Identified key survival drivers: gender, class, and social status
+A from-scratch implementation of core ML — no `sklearn.fit()` shortcuts. Built to internalize the *why*, not just the *how*.
 
-📌 Repo: https://github.com/amanml2026/titanic-survival-ml
+- **Regression:** Linear, Multiple, Polynomial, OLS
+- **Regularization:** Ridge, Lasso, Elastic Net (+ gradient descent variants)
+- **Classification:** Logistic Regression, Perceptron, KNN, Linear SVM
+- **Optimization:** Batch / Stochastic / Mini-batch Gradient Descent
 
----
+*Why it matters: proves the math is understood, not just imported.*
 
-### 📊 Sales Data Analysis Dashboard
-> Data analysis project focused on extracting business insights.
+</details>
 
-**Highlights:**
-- Cleaned and analyzed raw sales dataset
-- Built visual insights using Matplotlib
-- Identified top-performing regions and categories
-- Created structured EDA dashboard-style analysis
+<details>
+<summary><b>🎯 ml-decision-surface-visualizer</b> — interactive Streamlit + Plotly tool</summary>
+<br/>
 
-📌 Repo: https://github.com/amanml2026/sales-analysis-dashboard
+Visualizes SGD decision boundaries updating live as hyperparameters change.
 
----
+*Why it matters: shows I can build tools people interact with, not just static analysis.*
 
-## 📈 What Makes My Work Different
+</details>
 
-- I focus on **understanding why models work**, not just training them
-- I build **structured ML pipelines**, not random notebooks
-- I prioritize **feature engineering and data intuition**
-- I document projects like **real-world case studies**
+<details>
+<summary><b>🚢 titanic-survival-ml</b> — full applied ML pipeline</summary>
+<br/>
 
----
+Cleaning → feature engineering (family size, title extraction) → model comparison → cross-validation.
 
-## 🎯 Current Goals
+*Why it matters: demonstrates a disciplined, complete ML workflow on messy real data.*
 
-- Build 5–10 strong ML portfolio projects
-- Master feature engineering and model evaluation
-- Learn Deep Learning fundamentals
-- Explore MLOps and deployment (Streamlit / APIs)
-- Transition into AI Systems Engineering path
+</details>
 
----
+<details>
+<summary><b>📊 sales-analysis-dashboard</b> — EDA & business storytelling</summary>
+<br/>
 
-## 📜 Certifications
+Pandas + Matplotlib driven analysis translating raw sales data into business insight.
 
-- Mathematics for Data Science – SkillUp  
-- Google Cloud AI Fundamentals  
-- Microsoft Generative AI & Agents  
-- IBM Python for Data Science  
+*Why it matters: data science isn't just modeling — it's communicating what the data means.*
 
----
+</details>
 
-## 📊 GitHub Stats
+<details>
+<summary><b>🛡️ GovernorAI-</b> — a control layer for monitoring AI systems</summary>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanml2026&show_icons=true&theme=tokyonight" />
-</p>
+Early-stage exploration into AI governance and oversight tooling.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanml2026&theme=tokyonight" />
-</p>
+*Why it matters: signals direction toward responsible, production-grade AI — not just model-building.*
 
----
+</details>
 
-## 📫 Connect With Me
+<br/>
 
-- GitHub: https://github.com/amanml2026
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-<p align="center">
-💡 <i>"Consistency builds skill. Skill builds opportunity."</i>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
 
-<!--
-**amanml2026/amanml2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## 📈 GitHub Activity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amanml2026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amanml2026&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanml2026&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+
+</div>
+
+<br/>
+
+## 🎓 Certifications
+
+> Add verification links here — e.g. `[Google Data Analytics](your-cert-url)` — linked credentials carry far more weight than a bare list.
+
+<br/>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+If you're working on ML systems, deployment, or AI governance tooling — I'd love to talk.
+
+![Profile Views](https://komarev.com/ghpvc/?username=amanml2026&style=flat-square&color=2EA3F2)
+
+</div>
