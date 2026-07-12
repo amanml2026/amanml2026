@@ -1,15 +1,38 @@
-# Certificates & Badges
+# 📜 Certificates
 
-Here are my key certifications in **Data Science and AI/ML**:
+Welcome to my certifications collection!
 
-1. **SkillUp – Mathematics for Data Science**  
-   - Fundamental math concepts for AI and Data Science  
+This folder contains certificates I've earned while learning Artificial Intelligence, Machine Learning, Data Science, Mathematics, Programming, and Cloud Computing.
 
-2. **Google Cloud – Innovating with Google Cloud AI**  
-   - Hands-on experience building AI solutions on Google Cloud  
+These certifications complement my hands-on projects and reinforce my commitment to continuous learning.
 
-3. **Microsoft – Introduction to Generative AI and Agents**  
-   - Understanding generative AI, agents, and real-world applications  
+---
 
-4. **IBM – Python for Data Science**  
-   - Python programming, data manipulation, and analysis for AI/ML
+## 🏆 Certificates
+
+| Certificate | Organization | File |
+|-------------|--------------|------|
+| Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University (Coursera) | `supervised_ml_certificate_coursera.pdf` |
+| Google Cloud AI | Google Cloud | `Google_Cloud_AI.pdf` |
+| Python for Data Science | IBM | `IBM_Python_DS.pdf` |
+| Microsoft Generative AI | Microsoft | `Microsoft_GenerativeAI.pdf` |
+| Mathematics for Data Science | SkillUp by Simplilearn | `SkillUp_Math_for_DS.pdf` |
+
+---
+
+## 🎯 Learning Philosophy
+
+I view certifications as milestones rather than the destination.
+
+My primary focus is on:
+
+- 🧠 Understanding concepts from first principles
+- 💻 Building real-world AI and Machine Learning projects
+- ⚙️ Implementing algorithms from scratch
+- 🚀 Developing production-ready AI systems
+
+As I continue learning, this collection will grow alongside my projects and technical skills.
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
