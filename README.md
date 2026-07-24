@@ -177,53 +177,9 @@ A ground-up implementation of core ML — no `sklearn.fit()` shortcuts, every gr
 
 <div align="center">
 
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/amanml2026/amanml2026/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-<!--END_SECTION:snake-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanml2026&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8A63F2&line=6C63FF&point=ffffff" alt="Contribution Graph" width="100%"/>
 
 </div>
-
-> Animated snake that "eats" your contribution graph — renders automatically once the workflow below runs on your profile repo (`amanml2026/amanml2026`).
-
-<details>
-<summary><b>⚙️ One-time setup: enable the contribution snake</b></summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repo with:
-
-```yaml
-name: generate contribution snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: amanml2026
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once it runs once, the image above renders automatically and updates every 6 hours.
-
-</details>
 
 <br/>
 
