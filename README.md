@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-I build machine learning systems the way high-performing engineering teams do: **from first principles, then production.** Before reaching for a library, I implement the algorithm by hand — because the ability to reason about a model's failure modes matters more than the ability to call `.fit()` on it.
+I build machine learning systems: **from first principles, then production.** Before reaching for a library, I implement the algorithm by hand — because the ability to reason about a model's failure modes matters more than the ability to call `.fit()` on it.
 
 My long-term direction is **AI Systems Engineering** — the discipline sitting at the intersection of modeling, deployment, and governance that defines how frontier labs like OpenAI, Anthropic, DeepMind, and Meta AI actually ship models into the real world. That's the bar I'm building toward.
 
@@ -59,8 +59,7 @@ if __name__ == "__main__":
 
 </div>
 
-> **Why C?** Because understanding memory, pointers, and how a machine actually executes instructions is what makes "first principles" more than a slogan — it's the layer beneath NumPy that most ML engineers never look at.
-
+> **Why C?** To undertstand memory, pointers, and how a machine actually executes instructions .
 <br/>
 
 
