@@ -2,7 +2,7 @@
 
 <sub>JUST CURIOUS — about how intelligence gets built, one gradient at a time.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Aman%20Khanal&fontSize=42&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20First%20Principles%20%7C%20Aspiring%20AI%20Systems%20Engineer&descAlignY=58&descSize=15&fontColor=E0FFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Aman%20Khanal&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20First%20Principles%20%7C%20Aspiring%20AI%20Systems%20Engineer&descAlignY=58&descSize=15&descColor=FFD60A" width="100%"/>
 
 <img src="https://img.shields.io/badge/📍-India-00F5D4?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/status-building_in_public-2C5364?style=for-the-badge&labelColor=0d1117" />
@@ -92,7 +92,7 @@ A ground-up implementation of core ML — no `sklearn.fit()` shortcuts, every gr
 |---|---|
 | **Stack** | Python, NumPy |
 | **Coverage** | Linear, Multiple, Polynomial & OLS Regression · Ridge, Lasso, Elastic Net · Logistic Regression, Perceptron, KNN, Linear SVM · Batch / Stochastic / Mini-batch Gradient Descent |
-| **Repository** | [amanml2026/ML-Algorithms-From-Scratch](https://github.com/amanml2026) |
+| **Repository** | `amanml2026/ML-Algorithms-From-Scratch` |
 
 > **Why it matters:** proves the math is understood, not just imported — the same instinct that separates researchers from library users at top labs.
 
@@ -106,7 +106,7 @@ A ground-up implementation of core ML — no `sklearn.fit()` shortcuts, every gr
 |---|---|
 | **Stack** | Python, Streamlit, Plotly |
 | **What it does** | Renders SGD decision boundaries updating live as hyperparameters change |
-| **Repository** | [amanml2026/ml-decision-surface-visualizer](https://github.com/amanml2026) |
+| **Repository** | `amanml2026/ml-decision-surface-visualizer` |
 
 > **Why it matters:** shows I can build tools people *interact with*, not just static notebooks.
 
@@ -120,7 +120,7 @@ A ground-up implementation of core ML — no `sklearn.fit()` shortcuts, every gr
 |---|---|
 | **Stack** | Python, Pandas, scikit-learn |
 | **Pipeline** | Cleaning → feature engineering (family size, title extraction) → model comparison → cross-validation |
-| **Repository** | [amanml2026/titanic-survival-ml](https://github.com/amanml2026) |
+| **Repository** | `amanml2026/titanic-survival-ml` |
 
 > **Why it matters:** a disciplined, complete ML workflow on messy real-world data — the unglamorous 80% of the job.
 
@@ -134,23 +134,23 @@ A ground-up implementation of core ML — no `sklearn.fit()` shortcuts, every gr
 |---|---|
 | **Stack** | Python, Pandas, Matplotlib |
 | **What it does** | Translates raw sales data into decisions through exploratory analysis |
-| **Repository** | [amanml2026/sales-analysis-dashboard](https://github.com/amanml2026) |
+| **Repository** | `amanml2026/sales-analysis-dashboard` |
 
 > **Why it matters:** data science is a communication discipline as much as a modeling one.
 
 </details>
 
 <details>
-<summary><b>🛡️ GovernorAI-</b> — a control layer for monitoring AI systems</summary>
+<summary><b>📓 Field-notes</b> — a running log of what I'm learning and building</summary>
 <br/>
 
 | Aspect | Details |
 |---|---|
-| **Stack** | Python |
-| **Stage** | Early-stage exploration into AI governance and oversight tooling |
-| **Repository** | [amanml2026/GovernorAI-](https://github.com/amanml2026) |
+| **Stack** | Markdown |
+| **What it does** | Documents experiments, debugging notes, and lessons learned while building ML systems |
+| **Repository** | [amanml2026/Field-notes](https://github.com/amanml2026/Field-notes) |
 
-> **Why it matters:** signals direction toward responsible, production-grade AI — the layer frontier labs increasingly hire for.
+> **Why it matters:** shows the thinking behind the code — not just polished results, but the reasoning trail that got there.
 
 </details>
 
