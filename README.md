@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Khanal&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Machine%20Learning%20%7C%20First%20Principles%20%7C%20Aspiring%20AI%20Systems%20Engineer&descAlignY=58&descSize=15" width="100%"/>
+<sub>JUST CURIOUS — about how intelligence gets built, one gradient at a time.</sub>
 
-![Location](https://img.shields.io/badge/📍-India-6C63FF?style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Aman%20Khanal&fontSize=42&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20First%20Principles%20%7C%20Aspiring%20AI%20Systems%20Engineer&descAlignY=58&descSize=15&fontColor=E0FFFF" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A63F2?style=flat-square&logo=vercel&logoColor=white)](https://amanml2026.github.io/Portfolio-website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-khanal-4bb287227/)
-[![X](https://img.shields.io/badge/X-1a1a2e?style=flat-square&logo=x&logoColor=white)](https://x.com/AmanKhanal_AI)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:meena6aman@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/amanml2026)
+<img src="https://img.shields.io/badge/📍-India-00F5D4?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/status-building_in_public-2C5364?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00F5D4)](https://amanml2026.github.io/Portfolio-website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/aman-khanal-4bb287227/)
+[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AmanKhanal_AI)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:meena6aman@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanml2026)
 
 </div>
 
@@ -23,18 +28,20 @@ My long-term direction is **AI Systems Engineering** — the discipline sitting 
 ```python
 class Aman:
     def __init__(self):
-        self.role         = "ML Engineer, first-principles trained"
-        self.focus        = ["Machine Learning", "Deep Learning", "MLOps", "AI Governance"]
-        self.philosophy   = "Understand it from scratch, then scale it with tools"
-        self.currently    = "Building deployable ML systems, not just notebooks"
-        self.target_bar   = ["Meta", "OpenAI", "Anthropic", "Google DeepMind", "NVIDIA", "SpaceX"]
-        self.open_to      = ["collaboration", "internships", "research discussions"]
+        self.role       = "ML Engineer, first-principles trained"
+        self.focus      = ["Machine Learning", "Deep Learning", "MLOps", "AI Governance"]
+        self.philosophy = "Understand it from scratch, then scale it with tools"
+        self.currently  = "Building deployable ML systems, not just notebooks"
+        self.target_bar = ["Meta", "OpenAI", "Anthropic", "Google DeepMind", "NVIDIA", "SpaceX"]
+        self.open_to    = ["collaboration", "internships", "research discussions"]
 
-    def say_hi(self):
+    def say_hi(self) -> str:
         return "Let's build something that ships."
 
-me = Aman()
-print(me.say_hi())
+
+if __name__ == "__main__":
+    me = Aman()
+    print(me.say_hi())
 ```
 
 <br/>
@@ -45,11 +52,14 @@ print(me.say_hi())
 
 | Layer | Tools |
 |:---|:---|
-| **Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Core Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Numerical Computing** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 | **Modeling** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) |
 | **Shipping** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
+
+> **Why C?** Because understanding memory, pointers, and how a machine actually executes instructions is what makes "first principles" more than a slogan — it's the layer beneath NumPy that most ML engineers never look at.
 
 <br/>
 
@@ -166,18 +176,14 @@ A ground-up implementation of core ML — no `sklearn.fit()` shortcuts, every gr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amanml2026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=8A63F2&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanml2026&layout=compact&theme=tokyonight&hide_border=true&title_color=8A63F2&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amanml2026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F5D4&icon_color=2C5364&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanml2026&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5D4&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="165"/>
 
 </div>
 
-<br/>
-
-## 📊 Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanml2026&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8A63F2&line=6C63FF&point=ffffff" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amanml2026&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5D4&line=2C5364&point=ffffff" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -217,14 +223,16 @@ open_to:
 
 If you're working on ML systems, deployment, or AI governance tooling — I'd love to talk.
 
-[![GitHub](https://img.shields.io/badge/GitHub-2D1B4E?style=flat-square&logo=github&logoColor=white)](https://github.com/amanml2026)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-khanal-4bb287227/)
-[![X](https://img.shields.io/badge/X-1a1a2e?style=flat-square&logo=x&logoColor=white)](https://x.com/AmanKhanal_AI)
-[![Email](https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:meena6aman@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A63F2?style=flat-square&logo=vercel&logoColor=white)](https://amanml2026.github.io/Portfolio-website/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanml2026)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/aman-khanal-4bb287227/)
+[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AmanKhanal_AI)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:meena6aman@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=00F5D4)](https://amanml2026.github.io/Portfolio-website/)
 
 📍 India
 
 *"Understand it from scratch, then scale it with tools."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
