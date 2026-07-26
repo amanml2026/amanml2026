@@ -63,18 +63,15 @@ if __name__ == "__main__":
 
 <br/>
 
-## 🧭 Roadmap
 
-<div align="center">
+## ⚙️ What I'm Actually Doing
 
-| Stage | Focus | Status |
-|:---|:---|:---:|
-| Foundations | ML algorithms & optimization from scratch — no shortcuts | ✅ |
-| Applied ML | End-to-end pipelines on real-world, messy data | ✅ |
-| Interactive Tooling | Visual, explorable ML systems people can play with | ✅ |
-| Deep Learning & Deployment | Neural nets, MLOps, model serving | 🔄 |
-| AI Governance & Monitoring | Oversight and control layers for production AI | 🔄 |
-| Frontier-Caliber Portfolio | 5–10 polished projects → AI Systems Engineering roles | 🔜 |
+- 🧮 **ML from scratch** — Implementing every algorithm by hand before touching a library, so the math is understood, not just imported.
+- 🖥️ **CS from first principles** — Going back to how computers actually work: memory, pointers, execution, not just high-level syntax.
+- 🔩 **Learning low-level** — C, systems thinking, and the layers beneath Python/NumPy.
+- 🏗️ **Applied ML pipelines** — Cleaning, feature engineering, and modeling on real, messy data end-to-end.
+- 🧰 **Interactive tooling** — Building things people can actually play with, not static notebooks.
+
 
 </div>
 
