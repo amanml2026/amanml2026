@@ -61,7 +61,7 @@ if __name__ == "__main__":
 
 </div>
 
-> **Why C?** To undertstand memory, pointers, and how a machine actually executes instructions .
+
 <br/>
 
 
