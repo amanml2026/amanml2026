@@ -1,6 +1,7 @@
 <div align="center">
 
 <sub>JUST CURIOUS</sub>
+<br>
 <sub>Turning sand into intelligence...</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Aman%20Khanal&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%7C%20First%20Principles%20%7C%20Aspiring%20AI%20Systems%20Engineer&descAlignY=58&descSize=15&descColor=FFD60A" width="100%"/>
