@@ -161,7 +161,7 @@ A ground-up implementation of core ML — no `sklearn.fit()` shortcuts, every gr
 | Credential | Issuer |
 |---|---|
 | 🏆 [Supervised Machine Learning: Regression and Classification](./Certificates/supervised_ml_certificate_coursera.pdf) | DeepLearning.AI & Stanford University (Coursera) |
-| 🏆 [CS50x 2026](./Certificates/CS50x (1).pdf) | Harvard University |
+| 🏆 [CS50x 2026](./Certificates/CS50x.pdf) | Harvard University |
 | 🏆 [Google Cloud AI](./Certificates/Google_Cloud_AI.pdf) | Google Cloud |
 | 🏆 [Microsoft Generative AI](./Certificates/Microsoft_GenerativeAI.pdf) | Microsoft |
 | 🏆 [Mathematics for Data Science](./Certificates/SkillUp_Math_for_DS.pdf) | SkillUp by Simplilearn |
